@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "FunctionAzureHW": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7202",
+      "launchBrowser": false
+    }
+  }
+}
